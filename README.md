@@ -29,4 +29,4 @@ Added a title to the page
 
 Removed exccess language from Divs where h1/h2/h3 tags were
 
-![portfolio demo](.\Assets\Images\01-html-css-git-homework-demo.png)
+![portfolio demo](/Assets/Images/01-html-css-git-homework-demo.png)
